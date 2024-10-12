@@ -12,6 +12,11 @@ Uses Google's Gemini model to generate and format responses in natural language.
 #### Streamlit Web App: 
 Interactive web interface built with Streamlit for real-time chat and querying.
 
+## Demo
+
+Below is a screenshot of the chatbot in action:
+
+![Chatbot Demo](chat graph bot.png)
 ## Installation
 ### Clone the repository:
     git clone https://github.com/IbnuEyni/langchaingraphqa.git
