@@ -16,7 +16,7 @@ Interactive web interface built with Streamlit for real-time chat and querying.
 
 Below is a screenshot of the chatbot in action:
 
-![Chatbot Demo](chat graph bot.png)
+![Chatbot Demo](chat_graph_bot.png)
 
 
 ## Installation
